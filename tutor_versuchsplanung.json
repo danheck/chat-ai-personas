@@ -5,6 +5,7 @@
   "model": "mistral-large-3-675b-instruct-2512",
   "temperature": 0.1,
   "top_p": 0.1,
+  "memory": "Learn",
   "enable_tools": true,
   "arcana": "daniel.heck/MP2-Versuchsplanung",
   "messages": [
