@@ -3,6 +3,7 @@
   "subtitle": "Erklärungen für Vorlesungen in psychologischen Forschungsmethoden.",
   "temperature": 0.3,
   "enable_tools": true,
+  "arcana": "daniel.heck%2FMP2-Versuchsplanung",
   "top_p": 0.4,
   "model": "mistral-large-3-675b-instruct-2512",
   "model-name": "Mistral Large 3 675B Instruct 2512",
