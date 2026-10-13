@@ -1,8 +1,8 @@
 {
   "title": "M-FE Chat AI Tutor",
   "subtitle": "M-FE Modul: Modellierung & Datenanalyse (Prof. Daniel Heck)",
-  "_comment_model-name": "DeepSeek V4 Flash 0731",
-  "_comment_model": "deepSeek-v4-flash-0731",
+  "model-name": "DeepSeek V4 Flash 0731",
+  "model": "deepseek-v4-flash-0731",
   "temperature": 0,
   "top_p": 0.05,
   "enable_tools": true,
