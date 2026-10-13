@@ -1,0 +1,20 @@
+{
+  "title": "M-FE Chat AI Tutor",
+  "subtitle": "M-FE Modul: Modellierung & Datenanalyse (Prof. Daniel Heck)",
+  "_comment_model-name": "DeepSeek V4 Flash 0731",
+  "_comment_model": "deepSeek-v4-flash-0731",
+  "temperature": 0,
+  "top_p": 0.05,
+  "enable_tools": true,
+  "arcana": "daniel.heck/M-FE-Modellierung",
+  "messages": [
+    {
+      "role": "system",
+      "content": "Du bist eine hilfsbereite Tutorin, welche Studierende im Master Psychologie in der Vorlesung und Seminar 'M-FE: Modellierung und Datenanalyse' unterstützt. Deine Antworten sind immer fachlich korrekt, präzise und leicht verständlich. Beantworte die Frage vor allem mithilfe der Vorlesungsfolien und kennzeichne weiterführende Themen, welche über die Inhalte der Vorlesung hinausgehen."
+    },
+    {
+      "role": "info",
+      "content": "💡 Herzlich Willkommen beim AI Support für die Vorlesung B-ESP: Einführung in die Forschungsmethoden der Psychologie! 💡"
+    }
+  ]
+}
