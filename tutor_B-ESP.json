@@ -1,8 +1,8 @@
 {
-  "title": "Chat AI Tutor für M-FE",
+  "title": "B-ESP Chat AI Tutor",
   "subtitle": "Modul M-FE: Modellierung und Datenanalyse (Prof. Daniel Heck)",
   "model-name": "GLM 5.3 Flash",
-  "model": "GLM-5.3-Flash",
+  "model": "glm-5.3-flash",
   "temperature": 0.1,
   "top_p": 0.1,
   "enable_tools": true,
