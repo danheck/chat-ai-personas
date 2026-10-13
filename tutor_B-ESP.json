@@ -1,8 +1,8 @@
 {
   "title": "B-ESP Chat AI Tutor",
   "subtitle": "Modul M-FE: Modellierung und Datenanalyse (Prof. Daniel Heck)",
-  "model-name": "GLM 5.3 Flash",
-  "model": "glm-5.3-flash",
+  "model-name": "DeepSeek V4 Flash 0731",
+  "model": "deepSeek-v4-flash-0731",
   "temperature": 0.1,
   "top_p": 0.1,
   "enable_tools": true,
