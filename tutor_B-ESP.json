@@ -3,7 +3,7 @@
   "subtitle": "Modul M-FE: Modellierung und Datenanalyse (Prof. Daniel Heck)",
   "model-name": "GLM 5.3 Flash",
   "model": "GLM-5.3-Flash",
-  "temperature": 0.05,
+  "temperature": 0.1,
   "top_p": 0.1,
   "enable_tools": true,
   "arcana": "daniel.heck/B-ESP-Forschungsmethoden",
