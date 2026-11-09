@@ -1,8 +1,8 @@
 {
   "title": "B-ESP Chat AI Tutor",
   "subtitle": "B-ESP Vorlesung: Einführung in die Forschungsmethoden der Psychologie (Prof. Daniel Heck)",
-  "model-name": "DeepSeek V4 Flash 0731",
-  "model": "deepseek-v4-flash-0731",
+  "model-name": "DeepSeek V4.1 Flash 1017",
+  "model": "deepseek-v4.1-flash-1017",
   "temperature": 0,
   "top_p": 0.05,
   "enable_tools": true,
